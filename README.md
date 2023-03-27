@@ -8,5 +8,5 @@ Hello,i am README.md
       first ,git reset --version before made conflict
       second , git pull origin(hostName) main(branchName)   
     
-    new Branch
+    new Branch-----------------------------------------------------
                            Good Luck & Best Regards!!
