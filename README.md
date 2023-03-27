@@ -7,5 +7,6 @@ Hello,i am README.md
    The conquences i did is have a conflict which i should 
       first ,git reset --version before made conflict
       second , git pull origin(hostName) main(branchName)   
-   
+    
+    new Branch
                            Good Luck & Best Regards!!
